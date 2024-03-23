@@ -18,7 +18,7 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé récemment :
 
 - [Projet 1](https://github.com/matthisfinocchi/CV.git) : Un CV basée sur du HTML, CSS.
 - [Projet 2](https://github.com/matthisfinocchi/Discord-Bot-Welcome.git) : Un Bot Discord de bienvenue avec JavaScript.
-- [Projet 3](lien_vers_le_projet_3) : Un blog personnel construit avec Node.js et MongoDB.
+- [Projet 3](https://github.com/matthisfinocchi/BotCiscouille.git) : Un Bot Discord DmAll construit avec JavaScript.
 
 N'hésitez pas à explorer mes dépôts pour découvrir plus de projets intéressants !
 
@@ -26,9 +26,9 @@ N'hésitez pas à explorer mes dépôts pour découvrir plus de projets intéres
 
 Vous pouvez me contacter sur les plateformes suivantes :
 
-- GitHub : [Votre Nom d'utilisateur GitHub](lien_vers_votre_profil_GitHub)
-- LinkedIn : [Votre profil LinkedIn](lien_vers_votre_profil_LinkedIn)
-- Email : [Votre Adresse Email](mailto:votre@email.com)
+- GitHub : [matthisfinocchi](https://github.com/matthisfinocchi)
+- LinkedIn : [matthisfinocchi](https://www.linkedin.com/in/matthis-finocchi-bb295a270?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+- Email : [ristnotp@gmail.com](mailto:ristnotp@gmail.com)
 
 N'hésitez pas à me contacter si vous avez des questions ou si vous souhaitez discuter de collaborations potentielles !
 
