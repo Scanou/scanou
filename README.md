@@ -17,7 +17,7 @@ Je suis un développeur full-stack avec une solide expérience dans le développ
 
 Voici quelques-uns des projets sur lesquels j'ai travaillé récemment :
 
-- [Projet 1](lien_vers_le_projet_1) : Une application de gestion des tâches basée sur React.
+- [Projet 1](https://github.com/matthisfinocchi/CV.git) : Un CV basée sur du HTML, CSS.
 - [Projet 2](lien_vers_le_projet_2) : Un jeu mobile développé avec Flutter.
 - [Projet 3](lien_vers_le_projet_3) : Un blog personnel construit avec Node.js et MongoDB.
 
