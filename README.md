@@ -1,6 +1,6 @@
 # Bienvenue sur mon profil GitHub !
 
-Bonjour à tous ! Je suis @matthisfinocchi, un développeur passionné qui aime explorer de nouvelles technologies et résoudre des problèmes complexes. 
+Bonjour à tous ! Je suis @sc1n, un développeur passionné qui aime explorer de nouvelles technologies et résoudre des problèmes complexes. 
 
 ## À propos de moi
 
@@ -16,9 +16,9 @@ Je suis un développeur full-stack avec une solide expérience dans le développ
 
 Voici quelques-uns des projets sur lesquels j'ai travaillé récemment :
 
-- [Projet 1](https://github.com/matthisfinocchi/CV.git) : Un CV basée sur du HTML, CSS.
-- [Projet 2](https://github.com/matthisfinocchi/Discord-Bot-Welcome.git) : Un Bot Discord de bienvenue avec JavaScript.
-- [Projet 3](https://github.com/matthisfinocchi/BotCiscouille.git) : Un Bot Discord DmAll construit avec JavaScript.
+- [Projet 1](https://github.com/sc1n/CV.git) : Un CV basée sur du HTML, CSS.
+- [Projet 2](https://github.com/sc1n/Discord-Bot-Welcome.git) : Un Bot Discord de bienvenue avec JavaScript.
+- [Projet 3](https://github.com/sc1n/BotCiscouille.git) : Un Bot Discord DmAll construit avec JavaScript.
 
 N'hésitez pas à explorer mes dépôts pour découvrir plus de projets intéressants !
 
@@ -26,7 +26,7 @@ N'hésitez pas à explorer mes dépôts pour découvrir plus de projets intéres
 
 Vous pouvez me contacter sur les plateformes suivantes :
 
-- GitHub : [matthisfinocchi](https://github.com/matthisfinocchi)
+- GitHub : [matthisfinocchi](https://github.com/sc1n)
 - LinkedIn : [matthisfinocchi](https://www.linkedin.com/in/matthis-finocchi-bb295a270?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 - Email : [ristnotp@gmail.com](mailto:ristnotp@gmail.com)
 
