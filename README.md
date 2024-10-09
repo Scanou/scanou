@@ -26,8 +26,7 @@ N'hésitez pas à explorer mes dépôts pour découvrir plus de projets intéres
 
 Vous pouvez me contacter sur les plateformes suivantes :
 
-- GitHub : [matthisfinocchi](https://github.com/sc1n)
-- LinkedIn : [matthisfinocchi](https://www.linkedin.com/in/matthis-finocchi-bb295a270?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+- GitHub : [Scan](https://github.com/sc1n)
 - Email : [ristnotp@gmail.com](mailto:ristnotp@gmail.com)
 
 N'hésitez pas à me contacter si vous avez des questions ou si vous souhaitez discuter de collaborations potentielles !
