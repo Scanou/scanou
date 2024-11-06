@@ -36,4 +36,8 @@ N'hésitez pas à me contacter si vous avez des questions ou si vous souhaitez d
 Je tiens à remercier toutes les personnes qui ont contribué à mes projets et m'ont soutenu dans mon parcours de développement. Votre collaboration et votre soutien sont grandement appréciés !
 
 ---
+## Statistiques du Projet
+
+![Les statistiques GitHub](https://github-readme-stats.vercel.app/api?username=VOTRE-USERNAME&show_icons=true&theme=radical)
+![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE-USERNAME&layout=compact)
 
