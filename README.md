@@ -40,7 +40,7 @@ Je suis un développeur full-stack avec une solide expérience dans le développ
 | [![CSS][css-badge]][css-url]       | [![Express.js][expressjs-badge]][expressjs-url] | [![Docker][docker-badge]][docker-url] |
 | [![JavaScript][js-badge]][js-url]  | [![MongoDB][mongodb-badge]][mongodb-url] | [![VS Code][vscode-badge]][vscode-url] |
 | [![TypeScript][typescript-badge]][typescript-url] | [![PHP][php-badge]][php-url]     | [![MAMP][mamp-badge]][mamp-url] |
-| [![React][react-badge]][react-url]  | [![MariaDB][mariadb-badge]][mariadb-url] |  |
+| [![React][react-badge]][react-url]  |  | [![MariaDB][mariadb-badge]][mariadb-url] |
 | [![Vue][vue-badge]][vue-url]        |                                    |                                    |
 
 </div>
