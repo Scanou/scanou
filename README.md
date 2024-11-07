@@ -61,9 +61,9 @@
     <td width="50%">
       <h3 align="center"><strong>Dernier Projet</strong></h3>
       <p align="center">
-        <a href="https://github.com/sc1n/CV">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=sc1n&repo=Awesome-Dev-Portfolios&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
-        </a>
+         <a href="https://github.com/sc1n/Borne-de-Prix.git" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sc1n&repo=Borne-de-Prix&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Borne-de-Prix" />
+  </a>
       </p>
     </td>
     <td width="50%">
