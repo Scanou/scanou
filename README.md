@@ -1,21 +1,7 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-<!-- Les définitions des badges -->
-[contributors-shield]: https://img.shields.io/github/contributors/votre-utilisateur/votre-repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/votre-utilisateur/votre-repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/votre-utilisateur/votre-repo.svg?style=for-the-badge
-[forks-url]: https://github.com/votre-utilisateur/votre-repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/votre-utilisateur/votre-repo.svg?style=for-the-badge
-[stars-url]: https://github.com/votre-utilisateur/votre-repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/votre-utilisateur/votre-repo.svg?style=for-the-badge
-[issues-url]: https://github.com/votre-utilisateur/votre-repo/issues
-[license-shield]: https://img.shields.io/github/license/votre-utilisateur/votre-repo.svg?style=for-the-badge
-[license-url]: https://github.com/votre-utilisateur/votre-repo/blob/main/LICENSE.txt
+
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin
 [linkedin-url]: https://www.linkedin.com/in/votre-profile
 
@@ -29,20 +15,16 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Bonjour à tous !</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+   Je suis @sc1n, un développeur passionné qui aime explorer de nouvelles technologies et résoudre des problèmes complexes.
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
     <br />
 
   </p>
 </div>
-
-
-Bonjour à tous ! Je suis @sc1n, un développeur passionné qui aime explorer de nouvelles technologies et résoudre des problèmes complexes. 
 
 ## À propos de moi
 
