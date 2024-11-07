@@ -10,7 +10,7 @@ Je suis un développeur full-stack avec une solide expérience dans le développ
 - Backend : Node.js, Express.js, MongoDB.
 - Outils de développement : Git, Docker, VS Code.
 
-  <h2 align="center">🏆 Mes trophées GitHub</h2>
+  <h2 align="center">🏆 Mes trophées GitHub 🏆</h2>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -26,8 +26,8 @@ Je suis un développeur full-stack avec une solide expérience dans le développ
   <img src="https://github-readme-stats.vercel.app/api?username=sc1n&show_icons=true&theme=dracula" alt="GitHub Stats" />
 </p>
 
-<h2 align="center">📊 Top Langages 📊</h2>
+<h2 align="center">🗓️ Top Langages 🗓️</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sc1n&layout=compact" alt="Top Langages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sc1n&langs_count=8" />
 </p>
