@@ -188,13 +188,13 @@
   </a>
 
   <!-- GitHub -->
-  <a href="https://github.com/sc1n9" target="_blank">
+  <a href="https://github.com/sc1n" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/000000/github.png" width="50" height="50" alt="sc1n" style="margin-bottom: 5px;" />
   </a>
 
   <!-- Discord -->
-  <a href="https://discord.com/users/ton-username" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/discord-logo.png" width="50" height="50" alt="Ton Discord" style="margin-bottom: 5px;" />
+  <a href="https://discord.com/users/sc1n" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/discord-logo.png" width="50" height="50" alt="sc1n" style="margin-bottom: 5px;" />
   </a>
 </div>
 <br/>
