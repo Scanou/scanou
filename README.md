@@ -12,32 +12,33 @@ Je suis un développeur full-stack avec une solide expérience dans le développ
 - Backend : Node.js, Express.js, MongoDB.
 - Outils de développement : Git, Docker, VS Code.
 
-## Mes projets
+📊 GitHub Stats 📊
+<table>
+  <tr>
+    <!-- Carte GitHub Stats -->
+    <td>
+      <h3>GitHub Stats</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=sc1n&show_icons=true&theme=dracula" alt="GitHub Stats" />
+    </td>
+    <!-- Carte Streak Stats -->
+    <td>
+      <h3>Streak Stats</h3>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sc1n&theme=dracula" alt="Streak Stats" />
+    </td>
+  </tr>
 
-Voici quelques-uns des projets sur lesquels j'ai travaillé récemment :
-
-- [Projet 1](https://github.com/sc1n/CV.git) : Un CV basée sur du HTML, CSS.
-- [Projet 2](https://github.com/sc1n/Discord-Bot-Welcome.git) : Un Bot Discord de bienvenue avec JavaScript.
-- [Projet 3](https://github.com/sc1n/BotCiscouille.git) : Un Bot Discord DmAll construit avec JavaScript.
-
-N'hésitez pas à explorer mes dépôts pour découvrir plus de projets intéressants !
-
-## Contact
-
-Vous pouvez me contacter sur les plateformes suivantes :
-
-- GitHub : [Scan](https://github.com/sc1n)
-- Email : [ristnotp@gmail.com](mailto:ristnotp@gmail.com)
-
-N'hésitez pas à me contacter si vous avez des questions ou si vous souhaitez discuter de collaborations potentielles !
-
-## Remerciements
-
-Je tiens à remercier toutes les personnes qui ont contribué à mes projets et m'ont soutenu dans mon parcours de développement. Votre collaboration et votre soutien sont grandement appréciés !
-
----
-## Statistiques du Projet
-
-![Les statistiques GitHub](https://github-readme-stats.vercel.app/api?username=VOTRE-USERNAME&show_icons=true&theme=radical)
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE-USERNAME&layout=compact)
-
+  <tr>
+    <!-- Carte Dernier Projet -->
+    <td>
+      <h3>Latest Project</h3>
+      <a href="https://github.com/sc1n/REPO-NAME">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sc1n&repo=REPO-NAME&theme=dracula" alt="Latest Project" />
+      </a>
+    </td>
+    <!-- Carte Top Contributions -->
+    <td>
+      <h3>Top Langages</h3>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sc1n&layout=compact" alt="Top Langages" />
+    </td>
+  </tr>
+</table>
