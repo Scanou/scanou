@@ -86,19 +86,7 @@
 
 ---
 
-<h2 align="center">🛠️ Technologies et outils 🛠️</h2>
-<div align="center">
 
-| Front-End                          | Back-End                          | Outils de développement            | Système d'exploitation             |
-| ----------------------------------- | ---------------------------------- | ---------------------------------- | ----------------------------------- |
-| [![HTML][html-badge]][html-url]     | [![Node.js][nodejs-badge]][nodejs-url] | [![Git][git-badge]][git-url]       | [![Windows][windows-badge]][windows-url] |
-| [![CSS][css-badge]][css-url]       | [![Express.js][expressjs-badge]][expressjs-url] | [![Docker][docker-badge]][docker-url] | [![Linux][linux-badge]][linux-url] |
-| [![JavaScript][js-badge]][js-url]  | [![MongoDB][mongodb-badge]][mongodb-url] | [![VS Code][vscode-badge]][vscode-url] | [![Debian][debian-badge]][debian-url] |
-| [![TypeScript][typescript-badge]][typescript-url] | [![PHP][php-badge]][php-url]     | [![MAMP][mamp-badge]][mamp-url]   | [![Ubuntu][ubuntu-badge]][ubuntu-url] |
-| [![React][react-badge]][react-url]  | [![MariaDB][mariadb-badge]][mariadb-url] |                                    | [![macOS][macos-badge]][macos-url] |
-| [![Vue][vue-badge]][vue-url]        |                                    |                                    | [![Kali Linux][kali-badge]][kali-url] |
-
-</div>
 
 <!-- Badges -->
 [html-badge]: https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white
@@ -166,26 +154,6 @@
 
 [kali-badge]: https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white
 [kali-url]: https://www.kali.org/
-
-
-
-<!--Contact Section--> 
-
-<h2 align="center">🤝 Contacte-moi 🤝 </h2>
-<div align="center">
-  
-  <!-- Email -->
-  <a href="mailto:ristnotp@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/email.png" width="50" height="50" alt="ristnotp@gmail.com" style="margin-bottom: 5px;" />
-  </a>
-
-  <!-- GitHub -->
-  <a href="https://github.com/sc1n" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/github.png" width="50" height="50" alt="sc1n" style="margin-bottom: 5px;" />
-  </a>
-
-</div>
-<br/>
 
 
 
