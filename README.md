@@ -179,20 +179,11 @@
     <img src="https://img.icons8.com/ios-filled/50/000000/email.png" width="50" height="50" alt="ristnotp@gmail.com" style="margin-bottom: 5px;" />
   </a>
 
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/pvmattou" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/instagram-new.png" width="50" height="50" alt="pvmattou" style="margin-bottom: 5px;" />
-  </a>
-
   <!-- GitHub -->
   <a href="https://github.com/sc1n" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/000000/github.png" width="50" height="50" alt="sc1n" style="margin-bottom: 5px;" />
   </a>
 
-  <!-- Discord -->
-  <a href="https://discord.com/users/sc1n" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/discord-logo.png" width="50" height="50" alt="sc1n" style="margin-bottom: 5px;" />
-  </a>
 </div>
 <br/>
 
