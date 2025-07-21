@@ -1,163 +1,76 @@
-
-
-<!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Je suis Mattou
-*Passionné de technologie (Développement & Cybersécurité)*
-<br /> 
-
-<!--Start Intro-->               
-<p align="left">Je suis un développeur full-stack avec une solide expérience dans le développement d'applications web et mobiles. Je suis toujours à la recherche de nouvelles opportunités pour améliorer mes compétences et contribuer à des projets intéressants</p>
-
-- ✨ Curieux et passionné par l’apprentissage.
-- 🌱 Étudiant en SIO SISR
-- 💻 Développeur autodidacte avec des projets web à mon actif
-- 💁‍♂️ Actif dans les communautés tech pour échanger et apprendre
-- ❤ Contributeur aux projets Open Source
-- 🌐 Découvrez mon Portfolio (soon)
-
-<!--Profile Count Badge-->
+<div align="center">
+<img src="https://github.com/user-attachments/assets/e3e56acf-a6ab-4e43-a6bc-cd07b7e87bb4" width="25%" align="right" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=8AB6D6&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hey+there!;I'm+a+Scanou+and+self-taught+web+developer" width="70%" />
+<br><br>
+<pre>
+    📖 Curious and passionate about learning
+    💻 SIO SISR student • Growing my skills every day
+    📋 Self-taught web developer with real-world projects
+    ⚙️ Python • MongoDB • JavaScript • HTML/CSS
+    🎧 Music • Anime • Games • Night coding vibes
+</pre>
+<img src="https://i.gifer.com/2iFb.gif" height="40" />
+<br><br><br>
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sc1n&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="sc1n" style="padding-right:20px;" />
+  <img src="https://komarev.com/ghpvc/?username=scanou&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="sc1n" style="padding-right:20px;" />
+<img src="https://img.shields.io/github/followers/scanou?style=for-the-badge" alt="Followers" />
+<a href="https://github.com/scanou" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://discord.gg/9uyqJtmrA4" target="_blank">
+  <img src="https://img.shields.io/badge/Join%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Invite" />
+</a>
 </p>
+  
+</div>
 
----
-
-<!--Section Trophées-->   
-<h2 align="center">🏆 Trophées GitHub 🏆</h2>
-<p align="center">
-  <a href="https://github.com/scanou">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=sc1n&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=sc1n&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
-      <img alt="Trophées GitHub" src="https://github-profile-trophy.vercel.app/?username=sc1n&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
-    </picture>
-  </a>
-</p>
-<br />
-
-<!--Tableau des statistiques GitHub--> 
-<h2 align="center">📊 Statistiques GitHub 📊</h2>
-
-<table width="100%">
+<table>
   <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Statistiques GitHub</strong></h3>
-      <p align="center">
-        <a href="https://github.com/scanou">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=sc1n&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="Statistiques GitHub" />
-        </a>
-      </p>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/python/3776AB" width="48" height="48" alt="Python" />
+      <br>Python
     </td>
-    <td width="50%">
-      <h3 align="center"><strong>Statistiques de Streak</strong></h3>
-      <p align="center">
-        <a href="https://github.com/scanou">
-          <img align="center" src="https://streak-stats.demolab.com?user=sc1n&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Statistiques de Streak" />
-        </a>
-      </p>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="48" height="48" alt="JavaScript" />
+      <br>JavaScript
     </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Dernier Projet</strong></h3>
-      <p align="center">
-         <a href="https://github.com/sc1n/Borne-de-Prix.git" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sc1n&repo=Borne-de-Prix&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Borne-de-Prix" />
-  </a>
-      </p>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/html5/E34F26" width="48" height="48" alt="HTML5" />
+      <br>HTML
     </td>
-    <td width="50%">
-      <h3 align="center"><strong>Principales Contributions</strong></h3>
-      <p align="center">
-        <a href="https://github.com/scanou">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=sc1n&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Contributions" />
-        </a>
-      </p>
+   <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" width="48" height="48" alt="CSS3" />
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/php/777BB4" width="48" height="48" alt="PHP" />
+      <br>PHP
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/kalilinux/557C94" width="48" height="48" alt="Kali Linux" />
+      <br>Kali Linux
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/apple/000000" width="48" height="48" alt="macOS" />
+      <br>macOS
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/linux/000000" width="48" height="48" alt="Linux" />
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/mongodb/47A248" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/mysql/4479A1" width="48" height="48" alt="MySQL" />
+      <br>MySQL
     </td>
   </tr>
 </table>
-<br />
-
-<!--Graphique des Contributions-->
-<h2 align="center">📈 Graphique des Contributions 📈</h2>
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sc1n&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
-</div>
-
----
 
 
 
-<!-- Badges -->
-[html-badge]: https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white
-[html-url]: https://developer.mozilla.org/en-US/docs/Web/HTML
-
-[css-badge]: https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white
-[css-url]: https://developer.mozilla.org/en-US/docs/Web/CSS
-
-[js-badge]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
-[js-url]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
-
-[typescript-badge]: https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white
-[typescript-url]: https://www.typescriptlang.org/
-
-[react-badge]: https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black
-[react-url]: https://reactjs.org/
-
-[vue-badge]: https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white
-[vue-url]: https://vuejs.org/
-
-[nodejs-badge]: https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white
-[nodejs-url]: https://nodejs.org/
-
-[expressjs-badge]: https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white
-[expressjs-url]: https://expressjs.com/
-
-[mongodb-badge]: https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white
-[mongodb-url]: https://www.mongodb.com/
-
-[git-badge]: https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
-[git-url]: https://git-scm.com/
-
-[docker-badge]: https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
-[docker-url]: https://www.docker.com/
-
-[vscode-badge]: https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white
-[vscode-url]: https://code.visualstudio.com/
-
-[python-badge]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-[python-url]: https://www.python.org/
-
-[php-badge]: https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
-[php-url]: https://www.php.net/
-
-[mariadb-badge]: https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white
-[mariadb-url]: https://mariadb.org/
-
-[mamp-badge]: https://img.shields.io/badge/MAMP-F2C811?style=for-the-badge&logo=mamp&logoColor=white
-[mamp-url]: https://www.mamp.info/en/
-
-[windows-badge]: https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
-[windows-url]: https://www.microsoft.com/en-us/windows
-
-[linux-badge]: https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
-[linux-url]: https://www.kernel.org/
-
-[debian-badge]: https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white
-[debian-url]: https://www.debian.org/
-
-[ubuntu-badge]: https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white
-[ubuntu-url]: https://ubuntu.com/
-
-[macos-badge]: https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white
-[macos-url]: https://www.apple.com/macos/
-
-[kali-badge]: https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white
-[kali-url]: https://www.kali.org/
 
 
 
-<!--Footer--> 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
-</p>
