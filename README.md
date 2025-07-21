@@ -10,7 +10,7 @@
     🎧 Music • Anime • Games • Night coding vibes
 </pre>
 <img src="https://i.gifer.com/2iFb.gif" height="40" />
-<br><br><br>
+<br><br>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=scanou&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="sc1n" style="padding-right:20px;" />
 <img src="https://img.shields.io/github/followers/scanou?style=for-the-badge" alt="Followers" />
@@ -21,9 +21,7 @@
   <img src="https://img.shields.io/badge/Join%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Invite" />
 </a>
 </p>
-  
 </div>
-
 <table>
   <tr>
     <td align="center" width="96">
