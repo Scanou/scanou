@@ -14,7 +14,7 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=scanou&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="sc1n" style="padding-right:20px;" />
 <img src="https://img.shields.io/github/followers/scanou?style=for-the-badge" alt="Followers" />
-    <img src="https://wakatime.com/badge/user/2586e266-f619-42d9-ac45-d55f0932d14d.svg"/>
+    <img src="https://wakatime.com/badge/user/2586e266-f619-42d9-ac45-d55f0932d14d.svg" style="padding-right:20px;"/>
 <a href="https://github.com/scanou" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
